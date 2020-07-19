@@ -46,17 +46,20 @@ Updated 2020 Season
 
 
 ## hackSheffield
-* President: [Jennifer Ollett](mailto:jen@hacksheffield.com)
-* Treasurer: [Edward Hails](mailto:ed@hacksheffield.com)
-* Secretary: [Kassandra Yuen](mailto:kassandra@hacksheffield.com)
-* Technical: [Tom Keeble](mailto:tom@hacksheffield.com)
-* Trips: [Arnas Boruchovas](mailto:arnas@hacksheffield.com)
-* Inclusions: [James Edmundson](mailto:james@hacksheffield.com)
+* President: [Cosmin Panaite](mailto:cosmin@hacksheffield.co)
+* Treasurer: [Edward Hails](mailto:ed@hacksheffield.co)
+* Secretary: [Apoorva Singh](mailto:apoorva@hacksheffield.co)
+* Technical: [Arnas Boruchovas](mailto:arnas@hacksheffield.co)
+* Technical: [Freddy Heppell](mailto:freddy@hacksheffield.co)
+* Publicity: [Jen Ollett](mailto:jen@hacksheffield.co)
+* Sponsorship: [Art Kelly](mailto:art@hacksheffield.co)
+* Inclusions: [Anete Zepa](mailto:anete@hacksheffield.co)
+* Trips: Alexandra Herghelegiu
+* Support: Karim El Reweny
 
 [Generic](mailto:mailto:team@hacksheffield.co)
 
-Updated 2021 Season
-
+Updated 2020 Season
 
 ## HackSussex
 Updated 2020 Season
